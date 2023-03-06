@@ -29,6 +29,7 @@ To run the django backend server
 - python manage.py runserver
 
 #To set-up React frontend
+- cd my-app
 - npm install
 - npm start
 
