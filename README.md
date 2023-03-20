@@ -1,6 +1,4 @@
 # NrlyzeAB_Task
-NrlyzeAB Task
-Demo Video: https://www.loom.com/share/e58f48a4c46b4489ac96f18a99e734e5
 
 #To set-up mySQL Database and Server Connection
 - Create a new connection on any mySQL database server (I used mySQL Workbench)
